@@ -1,0 +1,24 @@
+slug: kt-vn-ceft
+name: KT-VN CEFT
+tagline: Web ôn tập kiến thức cho CEFT
+url: https://github.com/thangvt-food/KT-VN-CEFT
+status: paused
+visibility: private
+description: Web React + Firebase hỗ trợ ôn tập và kiểm tra kiến thức, có dữ liệu và blueprint trong repo.
+tags:
+  - ôn-tập
+  - kiểm-tra
+  - học-tập
+category: learning
+tech:
+  - react
+  - vite
+  - firebase
+hosting: firebase-hosting
+updated: '2025-09-29'
+version: 0.0.0
+icon: 📝
+auth: login
+links:
+  repo: https://github.com/thangvt-food/KT-VN-CEFT
+notes: Repo public, có firebase.json; chưa có URL deploy.
